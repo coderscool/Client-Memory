@@ -1,0 +1,18 @@
+.diep {
+  background: url(./Assets/diệp.jpg);
+  height: 45rem;
+  width: 33rem;
+  margin-left: 10px;
+}
+.huong {
+  background: url(./Assets/hường.jpg);
+  height: 45rem;
+  width: 33rem;
+  margin-left: 10px;
+}
+.trang {
+  background: url(./Assets/trang.jpg);
+  height: 45rem;
+  width: 33rem;
+  margin-left: 10px;
+}
